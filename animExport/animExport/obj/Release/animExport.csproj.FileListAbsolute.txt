@@ -1,0 +1,7 @@
+D:\Develop\C# programs\animExport\animExport\animExport\bin\Release\openmayacs.dll
+D:\Develop\C# programs\animExport\animExport\animExport\bin\Release\openmayacs.xml
+D:\Develop\C# programs\animExport\animExport\animExport\obj\Release\animExport.csprojResolveAssemblyReference.cache
+D:\Develop\C# programs\animExport\animExport\animExport\bin\Release\animExport.nll.dll
+D:\Develop\C# programs\animExport\animExport\animExport\bin\Release\animExport.nll.pdb
+D:\Develop\C# programs\animExport\animExport\animExport\obj\Release\animExport.nll.dll
+D:\Develop\C# programs\animExport\animExport\animExport\obj\Release\animExport.nll.pdb

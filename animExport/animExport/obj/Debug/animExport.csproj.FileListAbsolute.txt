@@ -1,0 +1,6 @@
+D:\Develop\C# programs\animExport\animExport\animExport\bin\Debug\animExport.nll.dll
+D:\Develop\C# programs\animExport\animExport\animExport\bin\Debug\animExport.nll.pdb
+D:\Develop\C# programs\animExport\animExport\animExport\bin\Debug\openmayacs.dll
+D:\Develop\C# programs\animExport\animExport\animExport\bin\Debug\openmayacs.xml
+D:\Develop\C# programs\animExport\animExport\animExport\obj\Debug\animExport.nll.dll
+D:\Develop\C# programs\animExport\animExport\animExport\obj\Debug\animExport.nll.pdb
